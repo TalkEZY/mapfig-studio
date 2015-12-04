@@ -15,24 +15,6 @@ This repo is in progress. Do not use.
 
 petiole is free, Open Source (GPLv3) application for creating, editing, managing, and deploying Leaflet maps.
 
-The server is tile-agnostic, allowing you to use any tile provider.  A group of 10 tile providers and a tile group are created on installation.
-
-The application supports Markers, Lines, Squares, and Polygons.
-
-Maps can be exported via iframe code, HTML, BootStrap, or called via URL or API.
-
-The Studio includes CMS plugins for WordPress, Drupal, Joomla, and Omeka to allow you to import, manage, and display of maps 
-within your CMS.
-
-SDKs for Android, iOS, nodejs, PHP, Windows, and python are available.
-
-A WYSIWYG editor is included for adding formatted text, images, and links to InfoBoxes. 
-
-In addition to bundling a large number of leaflet plugins (Measure, Search, Clustering, Export, Playback), some of the key features 
-of petiole includes Image Overlay, IntroBox Slider, InfoSlider, Legend, Password-Protection, SVG Maps, 
-Cross-Reference (insert link to one object from another), and CSV Processing with Advanced Filters. 
-
-petiole also includes multi-user support, Projects, and Collaboration.
 
 ## Repo in progress
 
