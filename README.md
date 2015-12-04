@@ -6,6 +6,11 @@ In using this product, user agrees to all attribution requirements for MapFig, I
 
 http://mapfig.org/attribution.html
 
+## Repo in progress
+
+This repo is in progress. Do not use.
+
+
 ## Description
 
 petiole is free, Open Source (GPLv3) application for creating, editing, managing, and deploying Leaflet maps.
@@ -29,45 +34,9 @@ Cross-Reference (insert link to one object from another), and CSV Processing wit
 
 petiole also includes multi-user support, Projects, and Collaboration.
 
-## Requirements for CentOS Install
+## Repo in progress
 
-Below are tested environments. 
-
-Repos: postgersql-9.4 and epel
-
-PHP 5.x
-
-php-pgsql
-
-SuPHP (Allows for hosting in shared environments) or mod_ruid2 (for DSO)
-
-PostgreSQL >=9 
-
-GDAL >=1.9 (available from postgresql repo and epel)
-
-## Download
-
-You can download the full petiole Server via the secure CDN at our <a href="http://petiole.org" target="_blank">website</a>.
-
-We have also created a <a href="https://studio.mapfig.com" target="_blank">free, public cloud</a> which you can use as well.
-
-You can create your free account on the public cloud at <a href="https://studio.mapfig.com" target="_blank"> https://studio.mapfig.com</a>
-
-The public cloud is being provided to us by <a href="https://www.vooservers.com/" target="_blank">VooServers</a>
-
-## Installation
-
-Once the server has been deployed, navigate to the directory and enter the required information.
-
-For installing on an existing VM, please see our <a href="https://github.com/MapFig/MapFig-Studio/wiki/Quick-Start-to-Installing-MapFig-Studio-on-CentOS-6" target="_blank">Wiki</a>
-
-
-## Documentation
-
-  - Documentation is available at <a href="http://docs.mapfig.com/" target="_blank">docs.mapfig.come</a>. Full documentation is
-    still in progress, so if you don't find what you need you can email us or consider contributing an article.
-
-  - Please check here or at docs site for updates. Full code will be added to this repo.
+This repo is in progress. Do not use.
   
   
 
