@@ -1,0 +1,1 @@
+[24-May-2015 21:36:25 UTC] PHP Warning:  pg_connect(): Unable to connect to PostgreSQL server: ERROR:  No such user: mapfig in /home/studiomapfig/public_html/include/site.config.php on line 6
