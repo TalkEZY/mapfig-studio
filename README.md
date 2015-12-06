@@ -2,10 +2,6 @@
 
 petiole Leaflet Server by <a href="https://www.mapfig.com" target="_blank">MapFig, Inc</a>
 
-In using this product, user agrees to all attribution requirements for MapFig, Inc and all map tile providers.
-
-http://mapfig.org/attribution.html
-
 ## Repo in progress
 
 This repo is in progress. Do not use.
