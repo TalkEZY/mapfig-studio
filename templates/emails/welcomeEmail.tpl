@@ -17,7 +17,7 @@
 						</tbody></table><!-- End Space -->
 						
 						<!-- Space -->
-						<table width="600" border="0" cellpadding="0" cellspacing="0" align="center" class="full2" object="drag-module-small">
+						 <table width="600" border="0" cellpadding="0" cellspacing="0" align="center" class="full2" object="drag-module-small">
 							<tbody><tr>
 								<td width="600" height="50"></td>
 							</tr>
