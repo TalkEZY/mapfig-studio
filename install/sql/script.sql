@@ -563,19 +563,7 @@ INSERT INTO admin VALUES (2, 'Muaaz', 'Khalid', 'info@fastesol.com', '1a1dc91c90
 --
 
 INSERT INTO groups_has_layers VALUES (1, 1, 1);
--- INSERT INTO groups_has_layers VALUES (2, 2, 1);
--- INSERT INTO groups_has_layers VALUES (3, 2, 2);
--- INSERT INTO groups_has_layers VALUES (4, 2, 3);
--- INSERT INTO groups_has_layers VALUES (5, 2, 4);
--- INSERT INTO groups_has_layers VALUES (6, 2, 5);
--- INSERT INTO groups_has_layers VALUES (7, 2, 6);
--- INSERT INTO groups_has_layers VALUES (8, 2, 7);
--- INSERT INTO groups_has_layers VALUES (9, 2, 8);
--- INSERT INTO groups_has_layers VALUES (10, 2, 9);
--- INSERT INTO groups_has_layers VALUES (11, 2, 10);
--- INSERT INTO groups_has_layers VALUES (12, 2, 11);
--- INSERT INTO groups_has_layers VALUES (13, 2, 12);
--- INSERT INTO groups_has_layers VALUES (14, 2, 13);
+
 
 
 --
@@ -604,19 +592,6 @@ SELECT pg_catalog.setval('groups_id_seq', 100, false);
 --
 
 INSERT INTO layers VALUES (1, 0, 'https://otile3-s.mqcdn.com/tiles/1.0.0/map/{z}/{x}/{y}.png', '', '', 'MapQuest', '<a href="https://openstreetmap.org" target="_blank">OpenStreetMap. </a> Tiles Courtesy of <a href="http://www.mapquest.com/" target="_blank">MapQuest</a>');
--- INSERT INTO layers VALUES (1, [#USER_ID#], 'http://otile1.mqcdn.com/tiles/1.0.0/map/{z}/{x}/{y}.png', '', '', 'MapQuest', '© <a href="http://openstreetmap.org>OpenStreetMap contributors.</a> Tiles Courtesy of <a href="http://www.mapquest.com/" target="_blank">MapQuest</a> <img src="http://developer.mapquest.com/content/osm/mq_logo.png">');
--- INSERT INTO layers VALUES (2, [#USER_ID#], 'http://a.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png', '', '', 'CartoDB Dark', '<a href="https://CartoDB.com" target="_blank">Map tiles by CartoDB, under CC BY 3.0. Data by OpenStreetMap, under ODbL.</a>');
--- INSERT INTO layers VALUES (3, [#USER_ID#], 'http://a.tile.stamen.com/toner/{z}/{x}/{y}.png', '', '', 'Stamen.Toner', '<a href="http://thunderforest.com/" target="_blank">Thunderforest</a>');
--- INSERT INTO layers VALUES (4, [#USER_ID#], 'http://tile.waymarkedtrails.org/cycling/{z}/{x}/{y}.png', '', '', 'Loniva Biking', '<a href="http://cycling.waymarkedtrails.org/" target="_blank">OpenStreetMap</a>');
--- INSERT INTO layers VALUES (5, [#USER_ID#], 'https://{s}.tiles.mapbox.com/v3/{id}/{z}/{x}/{y}.png', 'examples.map-i875mjb7', '', 'MapBox', '<a href="https://mapbox.com" target="_blank">MapBox</a>');
--- INSERT INTO layers VALUES (6, [#USER_ID#], 'http://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}', '', '', 'Google Maps', '<a href="http://www.google.com/intl/en-GB_US/help/terms_maps.html" target="_blank">Google - Terms of Use</a>');
--- INSERT INTO layers VALUES (7, [#USER_ID#], 'http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', '', '', 'Esri World Imagery', 'Attribution: <a href="http://www.esri.com/" target="_blank">ESRI</a>');
--- INSERT INTO layers VALUES (8, [#USER_ID#], 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', '', '', 'OpenStreetMap', '<a href="https://openstreetmap.org" target="_blank">OpenStreetMap</a>');
--- INSERT INTO layers VALUES (9, [#USER_ID#], 'http://{s}.tile.thunderforest.com/cycle/{z}/{x}/{y}.png', '', '', 'OpenCycleMap', '<a href="http://thunderforest.com/" target="_blank">Thunderforest</a>');
--- INSERT INTO layers VALUES (10, [#USER_ID#], 'http://{s}.tile.stamen.com/watercolor/{z}/{x}/{y}.jpg', '', '', 'Stamen.Watercolor', '<a href="http://stamen.com" target="_blank">Stamen Design</a>');
--- INSERT INTO layers VALUES (11, [#USER_ID#], 'http://otile1.mqcdn.com/tiles/1.0.0/sat/{z}/{x}/{y}.png', '', '', 'MapQuest Sat', '<a href="https://openstreetmap.org" target="_blank">OpenStreetMap</a>');
--- INSERT INTO layers VALUES (12, [#USER_ID#], 'http://tile.waymarkedtrails.org/hiking/{z}/{x}/{y}.png', '', '', 'Loniva Hiking', '<a href="https://openpistemap.org" target="_blank">OpenStreetMap</a>');
--- INSERT INTO layers VALUES (13, [#USER_ID#], 'http://a.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', '', '', 'CartoDB Light', '<a href="https://CartoD.com" target="_blank">Map tiles by CartoDB, under CC BY 3.0. Data by OpenStreetMap, under ODbL.</a>');
 
 
 --
