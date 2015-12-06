@@ -1,5 +1,5 @@
 <?PHP
-	global $db;
+	 global $db;
 	
 	if(isLogin()) {
 		if(isAdmin(getUserInfo())) {
