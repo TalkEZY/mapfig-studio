@@ -1,0 +1,1 @@
+{"types":["csv","geojson","kml","dgn","dxf","gxt","bna","georss","gmt","html","iframe"],"titles":["CSV","GeoJSON","KML","DGN","DXF","GeoConcept","BNA","GeoRSS","GMT","HTML","Embed"]}
