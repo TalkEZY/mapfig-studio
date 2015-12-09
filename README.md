@@ -1,6 +1,6 @@
 # petiole
 
-petiole version 3.0.1  by <a href="https://www.acugis.com" target="_blank">AcuGISc</a>
+petiole version 3.0.1  by <a href="https://www.acugis.com" target="_blank">AcuGIS</a>
 
 ## Description
 
