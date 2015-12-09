@@ -30,7 +30,7 @@ The SDKs can be downloaded free from this repository.
 
 Expanded API for GET, UPDATE, and SAVE
 
-API Docs and examples are available at <a href="https://www.mapfig.com/mapfig-api.html" target="_blank">petiole api docs</a>
+API Docs and examples for each SDK are available at <a href="http://petiole.org/api/" target="_blank">petiole api docs</a>
 
 
 ## System Requirements
