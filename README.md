@@ -61,7 +61,7 @@ The public cloud is being provided to us by <a href="https://www.vooservers.com/
 
 ## Installation
 
-We have an installer for <a href="#" target="_blank">Ubuntu 14.0.4</a>
+We have an installer for <a href="https://github.com/MapFig/Ubuntu-14-Installer" target="_blank">Ubuntu 14.0.4</a>
 
 We also have an installer for <a href="#" target="_blank">CentOS-7</a>
 
