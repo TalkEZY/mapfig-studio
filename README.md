@@ -51,7 +51,7 @@ GDAL >=1.9 (available from postgresql repo and epel)
 
 ## Download
 
-You can download the full petiole Server via GitHub or our <a href="https://cdn.mapfig.com/petiole/v301/petiole.zip"> secure CDN</a>.
+You can download the full petiole Server via GitHub or our <a href="https://cdn.acugis.com/petiole/v301/petiole.zip"> secure CDN</a>.
 
 We have also created a <a href="https://studio.mapfig.com" target="_blank">free, public cloud</a> which you can use as well.
 
