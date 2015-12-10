@@ -2,29 +2,34 @@
 
 petiole version 3.0.1  by <a href="https://www.acugis.com" target="_blank">AcuGIS</a>
 
+
+![petiole](https://cdn.acugis.com/petiole/v301/petdocs/petiole.png)
+
 ## Description
 
-petiole is free, Open Source (GPLv3) application for creating, developing, managing, and deploying Leaflet maps.
+petiole is a free, Open Source (GPLv3) server for creating, developing, managing, and deploying Leaflet maps.
 
-The server is tile-agnostic, allowing you to use any tile provider.  A group of 10 tile providers and a tile group are created on installation.
+The server is tile-agnostic, allowing you to use any map tile provider.  
 
-The application supports Markers, Lines, Squares, and Polygons.
+The application supports Markers, Lines, Squares, and Polygons. Maps can be created and edited 'free-hand' as well as via CSV/Table.
 
-Maps can be exported via iframe code, HTML, BootStrap, or called via URL or API.
+Maps can be exported via iframe code, HTML, BootStrap, or via URL (public and password-protected) or via API.
 
-The Studio includes CMS plugins for WordPress, Drupal, Joomla, and Omeka to allow you to import, manage, and display of maps within your CMS.
+petiole also includes integrated API plugins for WordPress, Drupal, Joomla, and Omeka.
 
 A WYSIWYG editor is included for adding formatted text, images, and links to InfoBoxes. 
 
-In addition to bundling a large number of leaflet plugins (Measure, Search, Clustering, Export, Playback), some of the key features of MapFig Studio include Image Overlay, IntroBox Slider, InfoSlider, Legend, Password-Protection, SVG Maps, Cross-Reference (insert link to one object from another), and CSV Processing with Advanced Filters. 
+In addition to bundling a large number of leaflet plugins (Measure, Search, Clustering, Export, Playback), some of the key features of petiole include Image Overlay, IntroBox Slider, InfoSlider, Legend, Password-Protection, SVG Maps, Cross-Reference (insert link to one object from another), and CSV Processing with Advanced Filters. 
 
-The Studio also includes multi-user support, Projects, and Collaboration.
+petiole also includes multi-user support, Projects, and Collaboration.
 
 ## SDKs
 
-Additionally, there are SDKs for iOS, Android, Windows, PHP, nodejs, and Python.
+petiole has free SDKs available for iOS /Swift, Android /Java, Windows /C#, PHP, nodejs, and Python.
 
 The SDKs can be downloaded free from this repository.
+
+SDK Examples are included in the SDK download and documentation can be found at: <a href="http://petiole.org/api/" target="_blank"> http://petiole.org/api/ </a>
 
 ## Change Log for 3.0.1
 
@@ -35,19 +40,20 @@ API Docs and examples for each SDK are available at <a href="http://petiole.org/
 
 ## System Requirements
 
-Below are tested environments. 
+PostgreSQL >=9
 
-Repos: postgersql-9.4 and epel
+GDAL >=1.9 (available from postgresql repo and epel)
 
 PHP 5.x
 
 php-pgsql
 
-SuPHP (Allows for hosting in shared environments) or mod_ruid2 
+SuPHP / mod_ruid2 
 
-PostgreSQL >=9 
+Apache HTTP Server
 
-GDAL >=1.9 (available from postgresql repo and epel)
+Postfix SMTP Server
+
 
 ## Download
 
@@ -61,13 +67,19 @@ The public cloud is being provided to us by <a href="https://www.vooservers.com/
 
 ## Installation
 
-We have an installer for <a href="https://github.com/MapFig/Ubuntu-14-Installer" target="_blank">Ubuntu 14.0.4</a>
+petiole can be installed on any new or existing LAPP stack (with GDAL libs).
 
-We also have an installer for <a href="#" target="_blank">CentOS-7</a>
+Simply edit the /includes/mail.config.php, navigate to directory you have installed in and follow the installer screens. 
 
-Once the server has been deployed, navigate to the directory and enter the required information.
+Script installers are also available for 
 
-**The above are for use on a clean install only.**
+<a href="https://github.com/MapFig/petiole-Ubuntu-14-Installer" target="_blank">Ubuntu 14.0.4</a>
+
+<a href="https://github.com/MapFig/petiole-CentOS-7-Installer" target="_blank">CentOS 7x</a>
+
+Detailed installation instructions can be found above.
+
+**The above script installers are for use on a clean install only!!**
 
 For installing on an existing VM, please see our <a href="https://github.com/MapFig/MapFig-Studio/wiki/Quick-Start-to-Installing-MapFig-Studio-on-CentOS-6" target="_blank">Wiki</a>
 
