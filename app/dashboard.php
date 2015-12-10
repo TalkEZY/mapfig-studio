@@ -135,9 +135,10 @@
     </div>
       <h3 align="center" class="m0"><br /><a href="map-create.php" class="style1">Create New Map</a></h3>
 			    <!--<p align="center">Create a new <?=SITE_NAME_FORMATED?> Map</p></td>-->
-    <td width="38%"><div align="center"><a href="user-add.php"><img src="img/user/new-table.jpg" alt="Image" width="112" height="126" border="0" class="img-thumbnail img-circle thumb128"></a>
+    <td width="38%"><div align="center"><a href="csv-create.php"><img src="img/user/new-table.jpg" alt="Image" width="112" height="126" border="0" class="img-thumbnail img-circle thumb128"></a>
     </div>
-      <h3 align="center" class="m0"><br /><a href="user-add.php" class="style1">Create New EndPoint</a></h3>
+      <h3 align="center" class="m0"><br />
+      <a href="csv-create.php" class="style1">Create New Table </a></h3>
 			    <!--<p align="center">Create a New  Data Table</p>--></td>
   </tr>
 </table>
@@ -161,7 +162,7 @@
       
 			    <p align="center"><a href="project.php" class="style1">My Projects</a></p></td>
 				
-    <td width="20%"><div align="center"><a href="social-share.php"><img src="img/user/share-maps.jpg" alt="Image" width="75" height="75" border="0" class="img-thumbnail img-circle thumb64"></a>
+    <td width="20%"><div align="center"><a href="activity.php"><img src="img/user/share-maps.jpg" alt="Image" width="75" height="75" border="0" class="img-thumbnail img-circle thumb64"></a>
     </div>
       
 			    <p align="center"><a href="activity.php" class="style1">Statistics</a></p></td>
