@@ -340,20 +340,20 @@
 
 
 			<div class="list-group">
-               <a href="https://www.petiole.org/portal/dl.php?type=d&id=5" class="list-group-item">
+               <a href="http://petiole.org/api" class="list-group-item" target="_blank">
                   <table class="wd-wide">
                      <tbody>
                         <tr>
                            <td class="wd-xs">
                               <div class="ph">
-                                 <img src="img/wordpress.png" alt="" class="media-box-object img-responsive img-rounded thumb64">
+                                 <img src="img/sdk.png" alt="" class="media-box-object img-responsive img-rounded thumb64">
                               </div>
                            </td>
                            <td>
                               <div class="ph">
-                                 <h4 class="media-box-heading">WordPress Premium Plugin</h4>
-                                 <small class="text-muted">WordPress Premium Plugin Stand-Alone Plugin.</small>
-                              14 Day Free Trial. No registration Required. </div>
+                                 <h4 class="media-box-heading">petiole SDKs</h4>
+                                 <small class="text-muted">SDKs for Android, iOS, PHP, Windows, NodeJS, and Python.</small>
+                               </div>
                            </td>
                            <td class="wd-sm">
                               <div class="ph">
