@@ -27,7 +27,7 @@ petiole also includes multi-user support, Projects, and Collaboration.
 
 ![petiole sdks](http://www.mapfig.com/images/petiole-sdks.png)  
 
-petiole has free SDKs available for <strong>iOS /Swift</strong>, <strong>Android /Java</strong>, <strong>Windows /C#</strong>, <strong>PHP</strong>, <strong>nodejs</strong>, and <strong>Python</strong>.
+petiole has free SDKs available for iOS /Swift, Android /Java, Windows /C#, PHP, nodejs, and Python.
 
 The SDKs can be downloaded free from this repository.
 
