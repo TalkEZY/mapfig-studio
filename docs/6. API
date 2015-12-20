@@ -1,0 +1,5 @@
+## Change Log for 3.0.1
+
+Expanded API for GET, UPDATE, and SAVE
+
+API Docs and examples for each SDK are available at <a href="http://petiole.org/api/" target="_blank">petiole api docs</a>
