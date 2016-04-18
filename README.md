@@ -1,13 +1,13 @@
-# petiole
+# mapfig Studio
 
-petiole version 3.0.1  by <a href="https://www.acugis.com" target="_blank">AcuGIS</a>
+mapfig version 3.0.1  by <a href="https://www.acugis.com" target="_blank">AcuGIS</a>
 
 
 ![petiole](https://cdn.acugis.com/petiole/v301/petdocs/petiole.png)
 
 ## Description
 
-petiole is a free, Open Source (GPLv3) server for creating, developing, managing, and deploying Leaflet maps.
+mapfig Studio is a free, Open Source (GPLv3) server for creating, developing, managing, and deploying Leaflet maps.
 
 The server is tile-agnostic, allowing you to use any map tile provider.  
 
@@ -15,7 +15,7 @@ The application supports Markers, Lines, Squares, and Polygons. Maps can be crea
 
 Maps can be exported via iframe code, HTML, BootStrap, or via URL (public and password-protected) or via API.
 
-petiole also includes integrated API plugins for WordPress, Drupal, Joomla, and Omeka.
+mapfig Studio also includes integrated API plugins for WordPress, Drupal, Joomla, and Omeka.
 
 A WYSIWYG editor is included for adding formatted text, images, and links to InfoBoxes. 
 
@@ -25,23 +25,23 @@ petiole also includes multi-user support, Projects, and Collaboration.
 
 ## SDKs
 
-![petiole sdks](http://www.mapfig.com/images/petiole-sdks.png)  
+![mapfig sdks](http://www.mapfig.com/images/petiole-sdks.png)  
 
-petiole has free SDKs available for iOS /Swift, Android /Java, Windows /C#, PHP, nodejs, and Python.
+mapfig has free SDKs available for iOS /Swift, Android /Java, Windows /C#, PHP, nodejs, and Python.
 
 The SDKs can be downloaded free from this repository.
 
-SDK Examples are included in the SDK download and documentation can be found at: <a href="http://petiole.org/api/" target="_blank"> http://petiole.org/api/ </a>
+SDK Examples are included in the SDK download and documentation can be found at: <a href="https://mapfig.org/api/" target="_blank"> https://mapfig.org/api/ </a>
 
 ## Statistics and Analytics
 
-petiole 3.0.1 adds a second PostgreSQL database for storing map usage and view statistics.
+mapfig Studio 3.0.1 adds a second PostgreSQL database for storing map usage and view statistics.
 
 The activity page (shown below) allows for multi-level drill down by API/User, Map, Timeframe, Browser, and Country. 
 
 A CSV can also be downloaded for the selected parameters with each individual map view and data per line.
 
-![petiole](https://www.mapfig.com/images/stats-db.png)
+![mapfig](https://www.mapfig.com/images/stats-db.png)
 
 The statistics database can be disabled if not wanted (see instructions)
 
@@ -71,7 +71,7 @@ Postfix SMTP Server
 
 ## Download
 
-You can download the full petiole Server via GitHub or our <a href="https://cdn.acugis.com/petiole/v301/petiole.zip"> secure CDN</a>.
+You can download the full mapfig Server via GitHub or our <a href="https://cdn.acugis.com/petiole/v301/petiole.zip"> secure CDN</a>.
 
 We have also created a <a href="https://studio.mapfig.com" target="_blank">free, public cloud</a> which you can use as well.
 
@@ -87,9 +87,9 @@ Simply edit the /includes/mail.config.php, navigate to directory you have instal
 
 Script installers are also available for 
 
-<a href="https://github.com/MapFig/petiole-Ubuntu-14-Installer" target="_blank">Ubuntu 14.0.4</a>
+<a href="https://github.com/MapFig/mapfig-Ubuntu-14-Installer" target="_blank">Ubuntu 14.0.4</a>
 
-<a href="https://github.com/MapFig/petiole-CentOS-7-Installer" target="_blank">CentOS 7x</a>
+<a href="https://github.com/MapFig/mapfig-CentOS-7-Installer" target="_blank">CentOS 7x</a>
 
 Detailed installation instructions can be found above.
 
