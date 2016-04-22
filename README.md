@@ -3,7 +3,7 @@
 mapfig version 3.0.1  by <a href="https://www.acugis.com" target="_blank">AcuGIS</a>
 
 
-![petiole](https://cdn.acugis.com/petiole/v301/petdocs/petiole.png)
+![mapfig](https://cdn.acugis.com/petiole/v301/petdocs/petiole.png)
 
 ## Description
 
@@ -19,9 +19,9 @@ mapfig Studio also includes integrated API plugins for WordPress, Drupal, Joomla
 
 A WYSIWYG editor is included for adding formatted text, images, and links to InfoBoxes. 
 
-In addition to bundling a large number of leaflet plugins (Measure, Search, Clustering, Export, Playback), some of the key features of petiole include Image Overlay, IntroBox Slider, InfoSlider, Legend, Password-Protection, SVG Maps, Cross-Reference (insert link to one object from another), and CSV Processing with Advanced Filters. 
+In addition to bundling a large number of leaflet plugins (Measure, Search, Clustering, Export, Playback), some of the key features of mapfig Studio include Image Overlay, IntroBox Slider, InfoSlider, Legend, Password-Protection, SVG Maps, Cross-Reference (insert link to one object from another), and CSV Processing with Advanced Filters. 
 
-petiole also includes multi-user support, Projects, and Collaboration.
+mapfig Studio also includes multi-user support, Projects, and Collaboration.
 
 ## SDKs
 
@@ -49,7 +49,7 @@ The statistics database can be disabled if not wanted (see instructions)
 
 Expanded API for GET, UPDATE, and SAVE
 
-API Docs and examples for each SDK are available at <a href="http://petiole.org/api/" target="_blank">petiole api docs</a>
+API Docs and examples for each SDK are available at <a href="https://mapfig.org/api/" target="_blank">mapfig api docs</a>
 
 
 ## System Requirements
@@ -81,7 +81,7 @@ The public cloud is being provided to us by <a href="https://www.vooservers.com/
 
 ## Installation
 
-petiole can be installed on any new or existing LAPP stack (with GDAL libs).
+mapfig Studio can be installed on any new or existing LAPP stack (with GDAL libs).
 
 Simply edit the /includes/mail.config.php, navigate to directory you have installed in and follow the installer screens. 
 
